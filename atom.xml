@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Yufei-R.github.io</id>
     <title>Gridea</title>
-    <updated>2020-06-09T08:29:29.494Z</updated>
+    <updated>2020-06-09T08:40:59.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Yufei-R.github.io"/>
     <link rel="self" href="https://Yufei-R.github.io/atom.xml"/>
@@ -12,28 +12,25 @@
     <icon>https://Yufei-R.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
+        <title type="html"><![CDATA[欢迎欢迎]]></title>
+        <id>https://Yufei-R.github.io/post/huan-ying-huan-ying/</id>
+        <link href="https://Yufei-R.github.io/post/huan-ying-huan-ying/">
+        </link>
+        <updated>2020-06-09T08:35:45.000Z</updated>
+        <content type="html"><![CDATA[<p>欢迎来到我的小站呀，很高兴遇见你！🤝🤗</p>
+<p>这是我的 🤔灵感与作品堆积处 👻</p>
+<p>Yu Feii</p>
+<p>联系方式是：1780831039 😚欢迎━(<em>｀∀´</em>)ノ亻!</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[保持个人的思想与言论独立]]></title>
         <id>https://Yufei-R.github.io/post/bao-chi-ge-ren-de-si-xiang-yu-yan-lun-du-li/</id>
         <link href="https://Yufei-R.github.io/post/bao-chi-ge-ren-de-si-xiang-yu-yan-lun-du-li/">
         </link>
         <updated>2020-06-09T02:32:02.000Z</updated>
         <content type="html"><![CDATA[<p>作为一个独立的人，言论自由意味着每一个人都有发表自己观点的权利。这同时也意味着每个人都有着自由接受外界信息的权利。每个人都可以不同意别人的观点，保留自己的观点。如果一个人，在发表完观点后被骂，被联合抵制，作品被取消甚至是封禁。这并不意味着这个人的言论自由受到了侵犯，只是因为这言论被更大多数受众所抵制，因为它不符合一个社会中的绝大多数所公认的道德标准。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Yufei-R.github.io/post/hello-gridea/</id>
-        <link href="https://Yufei-R.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝🤗</p>
-</blockquote>
-<h2 id="灵感与作品堆积处">🤔灵感与作品堆积处 👻</h2>
-<h2 id="yu-feii">Yu Feii</h2>
-<h2 id="没有热情的理性徒具躯壳-没有理性的热情无人知晓">没有热情的理性徒具躯壳  没有理性的热情无人知晓</h2>
-<h2 id="qq1780831039">QQ：1780831039 😚</h2>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
